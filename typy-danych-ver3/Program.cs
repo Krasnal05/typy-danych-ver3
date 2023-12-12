@@ -57,13 +57,7 @@ namespace typy_danych_ver3
             Console.WriteLine($"Długość przekątnej tego prostokąta jest równy {diagonal}");*/
 
             //4
-            /*Napisz program w którym stworzysz 2 zmienne liczbowe, oraz jedną tekstową, a następnie przypiszesz im
-            następujące wartości:
-            a. 10
-            b.Szkoła Dotneta
-            c. 12,5*/
-
-            int firstNum = 10;
+            /*int firstNum = 10;
           
             float secondNum =12.5f;
 
@@ -71,7 +65,28 @@ namespace typy_danych_ver3
 
             Console.WriteLine($"a. {firstNum}");
             Console.WriteLine($"b.{word}");
-            Console.WriteLine($"c. {secondNum}");
+            Console.WriteLine($"c. {secondNum}");*/
+
+            //5
+            /*
+
+            Console.WriteLine("Podaj imię");
+            string name = Console.ReadLine();
+
+            Console.WriteLine("podaj nazwisko");
+            string surname = Console.ReadLine();
+
+            Console.WriteLine("podaj nr telefonu");
+            string phoneNum = Console.ReadLine();
+
+            Console.WriteLine("adres email");
+            string email = Console.ReadLine();
+
+            Console.WriteLine("wzrost");
+            string height = Console.ReadLine();
+
+            Console.WriteLine("waga");
+            string weight = Console.ReadLine();*/
         }
     }
 }
